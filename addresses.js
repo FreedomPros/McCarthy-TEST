@@ -30,7 +30,7 @@ window.addresses = [
   },
   {
     name: "DAUNTLESS & MOTION (60-70) CA",
-    address: "15601 Garland Cir. Westminster CA 92683",
+    address: "TBD",
     coords: [33.7436, -117.9677],
     contacts: [
       {
@@ -77,14 +77,15 @@ window.addresses = [
     date: "July 3 - 4"
   },
   {
-    name: "THE SPARTANS & EMPIRE (15) CA",
+    name: "THE SPARTANS, EMPIRE & Kyros LA (50+) CA",
     address: "27141 Hideaway Ave. Santa Clarita, 91351",
     coords: [34.4264, -118.4842],
     contacts: [
       {
         team: "THE SPARTANS",
         people: [
-          { name: "Spencer deavila/ Zak Hattab", phone: "(484) 401-0077" }
+          { name: "Spencer Deavila", phone: "(661) 416-7979" },
+          { name: "Zak Hattab", phone: "(925) 435-7328" }
         ]
       },
       {
@@ -94,7 +95,7 @@ window.addresses = [
         ]
       }
     ],
-    date: "July 7"
+    date: "July 7 - 8"
   },
   {
     name: "PRIME & APOLLO (30) CA",
@@ -114,7 +115,7 @@ window.addresses = [
         ]
       }
     ],
-    date: "July 9"
+    date: "July 10 - 11"
   },
   {
     name: "MOTION (50+) CA",
@@ -128,7 +129,7 @@ window.addresses = [
         ]
       }
     ],
-    date: "July 11 - 12"
+    date: "July 14 - 15"
   },
   {
     name: "EMPIRE, VITALITY, ENVISION & EXTREME (120) IL",
@@ -161,7 +162,7 @@ window.addresses = [
         ]
       }
     ],
-    date: "July 15 - 16"
+    date: "July 17 - 18"
   },
   {
     name: "SOVEREIGN & SLINGERS (40) IL",
@@ -183,6 +184,6 @@ window.addresses = [
         ]
       }
     ],
-    date: "July 18 - 19"
+    date: "July 21 - 22"
   }
 ];
