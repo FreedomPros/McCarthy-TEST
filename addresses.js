@@ -162,5 +162,27 @@ window.addresses = [
       }
     ],
     date: "July 15 - 16"
+  },
+  {
+    name: "SOVEREIGN & SLINGERS (40) IL",
+    address: "TBD: 10956 N Dickson Mounds Rd, Lewistown, IL 61542",
+    coords: [40.394968, -90.170681],
+    contacts: [
+      {
+        team: "SOVEREIGN",
+        people: [
+          { name: "Mason Mahaffie", phone: "(541) 218-9473" },
+          { name: "Jaden Banaszynski", phone: "(435) 256-2145" }
+        ]
+      },
+      {
+        team: "SLINGERS",
+        people: [
+          { name: "Crew Smithson", phone: "(385) 401-9266" },
+          { name: "Jared Monhey", phone: "(801) 631-1493" }
+        ]
+      }
+    ],
+    date: "July 18 - 19"
   }
 ];
