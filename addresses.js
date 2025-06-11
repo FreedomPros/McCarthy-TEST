@@ -30,8 +30,8 @@ window.addresses = [
   },
   {
     name: "DAUNTLESS & MOTION (60-70) CA",
-    address: "TBD",
-    coords: [33.7436, -117.9677],
+    address: "FURY OFFICE: 15440 Laguna Canyon Rd. Suite 210. Irvine, CA. 92618",
+    coords: [33.6644, -117.7576],
     contacts: [
       {
         team: "DAUNTLESS",
@@ -185,5 +185,55 @@ window.addresses = [
       }
     ],
     date: "July 21 - 22"
+  },
+  {
+    name: "SOL (10) MI",
+    address: "5786 W Saginaw Hwy, Lansing, MI 48917",
+    coords: [42.7254, -84.6318],
+    contacts: [
+      {
+        team: "SOL",
+        people: [
+          { name: "Korey Lopez", phone: "(517) 914-4057" }
+        ]
+      }
+    ],
+    date: "July 24 - 25"
+  },
+  {
+    name: "CTRL (100) MI",
+    address: "26211 Central Park Blvd. Southfield, Mi 48076",
+    coords: [42.4774, -83.2452],
+    contacts: [
+      {
+        team: "CTRL",
+        people: [
+          { name: "Alex Mueller", phone: "(402) 591-1482" },
+          { name: "Matt Merkel", phone: "(402) 739-3540" }
+        ]
+      }
+    ],
+    date: "July 28 - 29"
+  },
+  {
+    name: "SOLAR MONEY GANG, OMNI, TBD, & TBD (60+) TX",
+    address: "3488 E Long Ave Fort Worth, TX 76137",
+    coords: [32.8134, -97.3021],
+    contacts: [
+      {
+        team: "SOLAR MONEY GANG",
+        people: [
+          { name: "Clayton Granch", phone: "(714) 612-2222" },
+          { name: "Josh Simmons", phone: "(682) 978-1939" }
+        ]
+      },
+      {
+        team: "OMNI",
+        people: [
+          { name: "Sam Parks", phone: "(714) 612-2222" }
+        ]
+      }
+    ],
+    date: "July 31 - Aug 1"
   }
 ];
