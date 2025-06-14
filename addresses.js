@@ -201,7 +201,7 @@ window.addresses = [
     date: "July 24 - 25"
   },
   {
-    name: "CTRL (100) MI",
+    name: "CTRL & BOUKNIGHT (120) MI",
     address: "26211 Central Park Blvd. Southfield, Mi 48076",
     coords: [42.4774, -83.2452],
     contacts: [
@@ -210,6 +210,12 @@ window.addresses = [
         people: [
           { name: "Alex Mueller", phone: "(402) 591-1482" },
           { name: "Matt Merkel", phone: "(402) 739-3540" }
+        ]
+      },
+      {
+        team: "BOUKNIGHT",
+        people: [
+          { name: "Matt Lent", phone: "(954) 243-1732" }
         ]
       }
     ],
@@ -231,6 +237,26 @@ window.addresses = [
         team: "OMNI",
         people: [
           { name: "Sam Parks", phone: "(714) 612-2222" }
+        ]
+      }
+    ],
+    date: "Aug 5 - 6"
+  },
+  {
+    name: "OMNI & BRANDON WILSON BLITZ (30-40) OH",
+    address: "PENDING: 3271 Wicklow Road, Columbus, OH 43204",
+    coords: [39.9806, -83.0725],
+    contacts: [
+      {
+        team: "OMNI",
+        people: [
+          { name: "Sam Parks", phone: "(714) 612-2222" }
+        ]
+      },
+      {
+        team: "BRANDON WILSON BLITZ",
+        people: [
+          { name: "Brandon Wilson", phone: "(801) 674-6345" }
         ]
       }
     ],
