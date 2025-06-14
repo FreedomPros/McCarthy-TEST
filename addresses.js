@@ -1,19 +1,5 @@
 window.addresses = [
   {
-    name: "FURY (150 - 200) CA",
-    address: "15440 Laguna Canyon Rd. Suite 210. Irvine, CA. 92618",
-    coords: [33.6644, -117.7576],
-    contacts: [
-      {
-        team: "FURY",
-        people: [
-          { name: "Jay Merrifield", phone: "801-336-6924" }
-        ]
-      }
-    ],
-    date: "June 26 - 27"
-  },
-  {
     name: "MOMENTVS (70-80) CA",
     address: "10532 Acacia St. Rancho Cucomongo, Ca. 91730",
     coords: [34.0921, -117.5737],
@@ -27,6 +13,20 @@ window.addresses = [
       }
     ],
     date: "June 23 - 24"
+  },
+  {
+    name: "FURY (150 - 200) CA",
+    address: "15440 Laguna Canyon Rd. Suite 210. Irvine, CA. 92618",
+    coords: [33.6644, -117.7576],
+    contacts: [
+      {
+        team: "FURY",
+        people: [
+          { name: "Jay Merrifield", phone: "801-336-6924" }
+        ]
+      }
+    ],
+    date: "June 26 - 27"
   },
   {
     name: "DAUNTLESS & MOTION (60-70) CA",
@@ -222,6 +222,26 @@ window.addresses = [
     date: "July 28 - 29"
   },
   {
+    name: "OMNI & BRANDON WILSON BLITZ (30-40) OH",
+    address: "PENDING: 3271 Wicklow Road, Columbus, OH 43204",
+    coords: [39.9806, -83.0725],
+    contacts: [
+      {
+        team: "OMNI",
+        people: [
+          { name: "Sam Parks", phone: "(714) 612-2222" }
+        ]
+      },
+      {
+        team: "BRANDON WILSON BLITZ",
+        people: [
+          { name: "Brandon Wilson", phone: "(801) 674-6345" }
+        ]
+      }
+    ],
+    date: "July 31 - Aug 1"
+  },
+  {
     name: "SOLAR MONEY GANG, OMNI, TBD, & TBD (60+) TX",
     address: "3488 E Long Ave Fort Worth, TX 76137",
     coords: [32.8134, -97.3021],
@@ -241,25 +261,5 @@ window.addresses = [
       }
     ],
     date: "Aug 5 - 6"
-  },
-  {
-    name: "OMNI & BRANDON WILSON BLITZ (30-40) OH",
-    address: "PENDING: 3271 Wicklow Road, Columbus, OH 43204",
-    coords: [39.9806, -83.0725],
-    contacts: [
-      {
-        team: "OMNI",
-        people: [
-          { name: "Sam Parks", phone: "(714) 612-2222" }
-        ]
-      },
-      {
-        team: "BRANDON WILSON BLITZ",
-        people: [
-          { name: "Brandon Wilson", phone: "(801) 674-6345" }
-        ]
-      }
-    ],
-    date: "July 31 - Aug 1"
   }
 ];
