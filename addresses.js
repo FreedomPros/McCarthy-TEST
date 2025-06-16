@@ -187,20 +187,6 @@ window.addresses = [
     date: "July 21 - 22"
   },
   {
-    name: "SOL (10) MI",
-    address: "5786 W Saginaw Hwy, Lansing, MI 48917",
-    coords: [42.7254, -84.6318],
-    contacts: [
-      {
-        team: "SOL",
-        people: [
-          { name: "Korey Lopez", phone: "(517) 914-4057" }
-        ]
-      }
-    ],
-    date: "July 24 - 25"
-  },
-  {
     name: "CTRL & BOUKNIGHT (120) MI",
     address: "26211 Central Park Blvd. Southfield, Mi 48076",
     coords: [42.4774, -83.2452],
@@ -219,7 +205,21 @@ window.addresses = [
         ]
       }
     ],
-    date: "July 28 - 29"
+    date: "July 24, 25, 26"
+  },
+  {
+    name: "SOL (10) MI",
+    address: "5786 W Saginaw Hwy, Lansing, MI 48917",
+    coords: [42.7254, -84.6318],
+    contacts: [
+      {
+        team: "SOL",
+        people: [
+          { name: "Korey Lopez", phone: "(517) 914-4057" }
+        ]
+      }
+    ],
+    date: "July 29"
   },
   {
     name: "OMNI & BRANDON WILSON BLITZ (30-40) OH",
