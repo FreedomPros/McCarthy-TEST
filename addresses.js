@@ -1,5 +1,19 @@
 window.addresses = [
   {
+    name: "FURY (150 - 200) CA",
+    address: "15440 Laguna Canyon Rd. Suite 210. Irvine, CA. 92618",
+    coords: [33.6644, -117.7576],
+    contacts: [
+      {
+        team: "FURY",
+        people: [
+          { name: "Jay Merrifield", phone: "801-336-6924" }
+        ]
+      }
+    ],
+    date: "June 26 - 27"
+  },
+  {
     name: "MOMENTVS (70-80) CA",
     address: "10532 Acacia St. Rancho Cucomongo, Ca. 91730",
     coords: [34.0921, -117.5737],
@@ -13,20 +27,6 @@ window.addresses = [
       }
     ],
     date: "June 23 - 24"
-  },
-  {
-    name: "FURY (150 - 200) CA",
-    address: "15440 Laguna Canyon Rd. Suite 210. Irvine, CA. 92618",
-    coords: [33.6644, -117.7576],
-    contacts: [
-      {
-        team: "FURY",
-        people: [
-          { name: "Jay Merrifield", phone: "801-336-6924" }
-        ]
-      }
-    ],
-    date: "June 26 - 27"
   },
   {
     name: "DAUNTLESS & MOTION (60-70) CA",
@@ -169,43 +169,7 @@ window.addresses = [
         ]
       }
     ],
-    date: "July 17 - 18"
-  },
-  {
-    name: "SOVEREIGN (20) IL",
-    address: "TBD: 10956 N Dickson Mounds Rd, Lewistown, IL 61542",
-    coords: [40.394968, -90.170681],
-    contacts: [
-      {
-        team: "SOVEREIGN",
-        people: [
-          { name: "Mason Mahaffie", phone: "(541) 218-9473" },
-          { name: "Jaden Banaszynski", phone: "(435) 256-2145" }
-        ]
-      }
-    ],
-    date: "July 21 - 22"
-  },
-  {
-    name: "CTRL & BOUKNIGHT (120) MI",
-    address: "26211 Central Park Blvd. Southfield, Mi 48076",
-    coords: [42.4774, -83.2452],
-    contacts: [
-      {
-        team: "CTRL",
-        people: [
-          { name: "Alex Mueller", phone: "(402) 591-1482" },
-          { name: "Matt Merkel", phone: "(402) 739-3540" }
-        ]
-      },
-      {
-        team: "BOUKNIGHT",
-        people: [
-          { name: "Matt Lent", phone: "(954) 243-1732" }
-        ]
-      }
-    ],
-    date: "July 24, 25, 26"
+    date: "July 17, 18, 19"
   },
   {
     name: "SOL (10) MI",
@@ -219,27 +183,22 @@ window.addresses = [
         ]
       }
     ],
-    date: "July 29"
+    date: "July 24 - 25"
   },
   {
-    name: "OMNI & BRANDON WILSON BLITZ (30-40) OH",
-    address: "PENDING: 3271 Wicklow Road, Columbus, OH 43204",
-    coords: [39.9806, -83.0725],
+    name: "CTRL (100) MI",
+    address: "26211 Central Park Blvd. Southfield, Mi 48076",
+    coords: [42.4774, -83.2452],
     contacts: [
       {
-        team: "OMNI",
+        team: "CTRL",
         people: [
-          { name: "Sam Parks", phone: "(714) 612-2222" }
-        ]
-      },
-      {
-        team: "BRANDON WILSON BLITZ",
-        people: [
-          { name: "Brandon Wilson", phone: "(801) 674-6345" }
+          { name: "Alex Mueller", phone: "(402) 591-1482" },
+          { name: "Matt Merkel", phone: "(402) 739-3540" }
         ]
       }
     ],
-    date: "July 31 - Aug 1"
+    date: "July 28 - 29"
   },
   {
     name: "SOLAR MONEY GANG, OMNI, TBD, & TBD (60+) TX",
@@ -260,6 +219,6 @@ window.addresses = [
         ]
       }
     ],
-    date: "Aug 5 - 6"
+    date: "July 31 - Aug 1"
   }
 ];
