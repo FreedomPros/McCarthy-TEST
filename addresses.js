@@ -183,10 +183,10 @@ window.addresses = [
         ]
       }
     ],
-    date: "July 24 - 25"
+    date: "July 20"
   },
   {
-    name: "CTRL (100) MI",
+    name: "CTRL & BOUKNIGHT (100) MI",
     address: "26211 Central Park Blvd. Southfield, Mi 48076",
     coords: [42.4774, -83.2452],
     contacts: [
@@ -197,8 +197,9 @@ window.addresses = [
           { name: "Matt Merkel", phone: "(402) 739-3540" }
         ]
       }
+      // Add BOUKNIGHT contacts here if you have them
     ],
-    date: "July 28 - 29"
+    date: "July 24, 25, 26"
   },
   {
     name: "SOLAR MONEY GANG, OMNI, TBD, & TBD (60+) TX",
