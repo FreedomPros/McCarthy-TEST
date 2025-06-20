@@ -202,6 +202,20 @@ window.addresses = [
     date: "July 24, 25, 26"
   },
   {
+    name: "OMNI & BRANDON WILSON BLITZ (OH)",
+    address: "TBD, Ohio",
+    coords: [40.4173, -82.9071], // Center of Ohio
+    contacts: [
+      {
+        team: "OMNI & BRANDON WILSON BLITZ",
+        people: [
+          // Add POCs here if you have them
+        ]
+      }
+    ],
+    date: "July 29 - 30"
+  },
+  {
     name: "SOLAR MONEY GANG, OMNI, TBD, & TBD (60+) TX",
     address: "3488 E Long Ave Fort Worth, TX 76137",
     coords: [32.8134, -97.3021],
@@ -220,6 +234,6 @@ window.addresses = [
         ]
       }
     ],
-    date: "July 31 - Aug 1"
+    date: "Aug 4 - 5"
   }
 ];
