@@ -314,7 +314,7 @@ window.addresses = [
   },
   {
     name: "LUMINOSITY (25) NM",
-    address: "10131 Coors Blvd NW. Ste G7. Albuquerque, NM  87114",
+    address: "10131 Coors Blvd NW. Ste G7. Albuquerque, NM 87114",
     coords: [35.1926, -106.6987],
     contacts: [
       {
@@ -360,7 +360,7 @@ window.addresses = [
   },
   {
     name: "NRG & ALCHEMY (30 - 40) NV",
-    address: "740 Freeport blvd, Suite 107. Sparks, NV. 89431",
+    address: "740 Freeport Blvd. Suite 107. Sparks, NV. 89431",
     coords: [39.5309, -119.7681],
     contacts: [
       {
@@ -382,6 +382,41 @@ window.addresses = [
         ]
       }
     ],
-    date: ""
+    date: "Aug 18 - 19"
+  },
+  {
+    name: "SVG, FUSION, PNW TEAM (40-50) OR",
+    address: "10700 SW Beaverton Hillsdale Hwy. Building 2, Suite 455. Beaverton, OR. 97005",
+    coords: [45.4822, -122.7858],
+    contacts: [
+      {
+        team: "SVG, FUSION, PNW TEAM",
+        people: [
+          { name: "Berto Laguna", phone: "(503) 929-8855" },
+          { name: "Logan Swanson", phone: "(804) 833-0291" }
+        ]
+      }
+    ],
+    date: "Aug 21 - 22"
+  },
+  {
+    name: "MILE HIGH MENTALITY & RDNT (25) CO",
+    address: "12835 E Arapahoe Rd. Tower 1, Floor 7. Centennial, CO.",
+    coords: [39.5940, -104.8395],
+    contacts: [
+      {
+        team: "MILE HIGH MENTALITY",
+        people: [
+          { name: "Robert Hill", phone: "(720) 520-0334" }
+        ]
+      },
+      {
+        team: "RDNT",
+        people: [
+          { name: "Danielle Bilskey", phone: "(719) 640-3910" }
+        ]
+      }
+    ],
+    date: "Aug 25 - 26"
   }
 ];
