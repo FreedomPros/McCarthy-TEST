@@ -221,7 +221,8 @@ window.addresses = [
       {
         team: "OMNI",
         people: [
-          { name: "Sam Parks", phone: "(714) 612-2222" }
+          { name: "Sam Parks", phone: "(714) 612-2222" },
+          { name: "Caleb Brown" }
         ]
       },
       {
@@ -281,7 +282,7 @@ window.addresses = [
         ]
       }
     ],
-    date: "July 31 - Aug 1"
+    date: "July 30 - Aug 1"
   },
   {
     name: "ALL BAD (30-40) TX",
@@ -313,8 +314,8 @@ window.addresses = [
   },
   {
     name: "LUMINOSITY (25) NM",
-    address: "TBD",
-    coords: [35.0844, -106.6504], // Albuquerque, NM
+    address: "10131 Coors Blvd NW. Ste G7. Albuquerque, NM  87114",
+    coords: [35.1926, -106.6987],
     contacts: [
       {
         team: "LUMINOSITY",
@@ -324,5 +325,63 @@ window.addresses = [
       }
     ],
     date: "Aug 11 - 12"
+  },
+  {
+    name: "ASEND, VOLTAIC, NXT LVL, ALCHEMY, VANTA (45-55) AZ",
+    address: "2440 E Germann Rd. Suite 1. Chandler, Az. 85286",
+    coords: [33.2822, -111.8137],
+    contacts: [
+      {
+        team: "ASEND",
+        people: [
+          { name: "Chandler Huish", phone: "(480) 707-1503" }
+        ]
+      },
+      {
+        team: "VOLTAIC & NXT LVL",
+        people: [
+          { name: "Jayme Clarke", phone: "(623) 297-8215" }
+        ]
+      },
+      {
+        team: "ALCHEMY",
+        people: [
+          { name: "Calder Bonnet", phone: "(801) 380-2282" }
+        ]
+      },
+      {
+        team: "VANTA",
+        people: [
+          { name: "Trey Greenhill", phone: "(480) 294-5186" }
+        ]
+      }
+    ],
+    date: "Aug 14 - 15"
+  },
+  {
+    name: "NRG & ALCHEMY (30 - 40) NV",
+    address: "740 Freeport blvd, Suite 107. Sparks, NV. 89431",
+    coords: [39.5309, -119.7681],
+    contacts: [
+      {
+        team: "NRG",
+        people: [
+          { name: "Jeff Iverson", phone: "(702) 279-1298" }
+        ]
+      },
+      {
+        team: "ALCHEMY",
+        people: [
+          { name: "Calder Bonnet", phone: "(801) 380-2282" }
+        ]
+      },
+      {
+        team: "Ben Newell",
+        people: [
+          { name: "Ben Newell", phone: "(360) 504-7154" }
+        ]
+      }
+    ],
+    date: ""
   }
 ];
