@@ -385,7 +385,27 @@ window.addresses = [
     date: "Aug 18 - 19"
   },
   {
-    name: "SVG, FUSION, PNW TEAM (40-50) OR",
+    name: "SUPREME & PENDING",
+    address: "TBD",
+    coords: [42.3265, -122.8756],
+    contacts: [
+      {
+        team: "SUPREME",
+        people: [
+          { name: "Brandon Hoy", phone: "(541) 441-0779" }
+        ]
+      },
+      {
+        team: "PENDING",
+        people: [
+          { name: "Tad Carter", phone: "(801) 634-2127" }
+        ]
+      }
+    ],
+    date: "Aug 21 - 22"
+  },
+  {
+    name: "SVG, FUSION, PNW TEAM & GOLD STANDARD (40-50) OR",
     address: "10700 SW Beaverton Hillsdale Hwy. Building 2, Suite 455. Beaverton, OR. 97005",
     coords: [45.4822, -122.7858],
     contacts: [
@@ -395,9 +415,15 @@ window.addresses = [
           { name: "Berto Laguna", phone: "(503) 929-8855" },
           { name: "Logan Swanson", phone: "(804) 833-0291" }
         ]
+      },
+      {
+        team: "GOLD STANDARD",
+        people: [
+          { name: "Tad Carter", phone: "(801) 634-2127" }
+        ]
       }
     ],
-    date: "Aug 21 - 22"
+    date: "Aug 25 - 26"
   },
   {
     name: "MILE HIGH MENTALITY & RDNT (25) CO",
@@ -417,7 +443,7 @@ window.addresses = [
         ]
       }
     ],
-    date: "Aug 25 - 26"
+    date: "Aug 28 - 29"
   },
   {
     name: "CULTURE U & REGULATORS",
