@@ -327,12 +327,12 @@ window.addresses = [
     date: "Aug 11 - 12"
   },
   {
-    name: "ASEND, VOLTAIC, NXT LVL, ALCHEMY, VANTA (45-55) AZ",
+    name: "ACSEND, VOLTAIC, NXT LVL, ALCHEMY, VANTA (45-55) AZ",
     address: "2440 E Germann Rd. Suite 1. Chandler, Az. 85286",
     coords: [33.2822, -111.8137],
     contacts: [
       {
-        team: "ASEND",
+        team: "ACSEND",
         people: [
           { name: "Chandler Huish", phone: "(480) 707-1503" }
         ]
@@ -385,9 +385,9 @@ window.addresses = [
     date: "Aug 18 - 19"
   },
   {
-    name: "SUPREME & PENDING",
+    name: "SUPREME & THE GOLD STANDARD (15) OR",
     address: "TBD",
-    coords: [42.3265, -122.8756],
+    coords: [42.3265, -122.8756], // Medford, Oregon
     contacts: [
       {
         team: "SUPREME",
@@ -396,7 +396,7 @@ window.addresses = [
         ]
       },
       {
-        team: "PENDING",
+        team: "THE GOLD STANDARD",
         people: [
           { name: "Tad Carter", phone: "(801) 634-2127" }
         ]
@@ -465,5 +465,59 @@ window.addresses = [
       }
     ],
     date: "Sep 1 - 2"
+  },
+  {
+    name: "WATTS UP! & ODYSSEY (30-35)",
+    address: "135 Robert Treat Paine Dr. Taunton, MA 02780",
+    coords: [41.8972, -71.0296],
+    contacts: [
+      {
+        team: "WATTS UP!",
+        people: [
+          { name: "Khim Fam", phone: "(857) 207-0190" }
+        ]
+      },
+      {
+        team: "ODYSSEY",
+        people: [
+          { name: "Richard Lara", phone: "(401) 537-8081" }
+        ]
+      }
+    ],
+    date: "Sep 4 - 5"
+  },
+  {
+    name: "SYNDICATE, PRIME ENERGY PARTNERS, GREEN ENERGY PARTNERS & SOLARGATI (40-50) NJ",
+    address: "201 Commerce Dr. Mooreston, NJ. 08057",
+    coords: [39.9707, -74.9446],
+    contacts: [
+      {
+        team: "SYNDICATE, PRIME & GREEN ENERGY PARTNERS",
+        people: [
+          { name: "Kyle Marshall", phone: "(717) 810-6487" }
+        ]
+      },
+      {
+        team: "SOLARGATI",
+        people: [
+          { name: "Avi Sheta", phone: "(516) 225-8983" }
+        ]
+      }
+    ],
+    date: "Sep 8 - 9"
+  },
+  {
+    name: "CAPITAL MARYLAND (60) MD",
+    address: "10010 Junction Dr. Suite s115. Annapolis Junction MD",
+    coords: [39.1321, -76.7896],
+    contacts: [
+      {
+        team: "CAPITAL MARYLAND",
+        people: [
+          { name: "Jordan Gruzinski", phone: "(443) 790-9816" }
+        ]
+      }
+    ],
+    date: "Sep 11 - 12"
   }
 ];
