@@ -282,7 +282,7 @@ window.addresses = [
         ]
       }
     ],
-    date: "July 30 - Aug 1"
+    date: "July 31 - Aug 1"
   },
   {
     name: "ALL BAD (30-40) TX",
