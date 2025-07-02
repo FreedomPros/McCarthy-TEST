@@ -507,7 +507,7 @@ window.addresses = [
     date: "Sep 8 - 9"
   },
   {
-    name: "CAPITAL MARYLAND (60) MD",
+    name: "CAPITAL MARYLAND, DMV & ARMADA (80) MD",
     address: "10010 Junction Dr. Suite s115. Annapolis Junction MD",
     coords: [39.1321, -76.7896],
     contacts: [
@@ -515,6 +515,18 @@ window.addresses = [
         team: "CAPITAL MARYLAND",
         people: [
           { name: "Jordan Gruzinski", phone: "(443) 790-9816" }
+        ]
+      },
+      {
+        team: "DMV",
+        people: [
+          { name: "Chris Burgess", phone: "(801) 698-6111" }
+        ]
+      },
+      {
+        team: "ARMADA",
+        people: [
+          { name: "Quentin Dotson", phone: "(240) 678-2475" }
         ]
       }
     ],
