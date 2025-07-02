@@ -514,7 +514,7 @@ window.addresses = [
       {
         team: "CAPITAL MARYLAND",
         people: [
-          { name: "Jordan Gruzinski", phone: "(443) 790-9816" }
+          { name: "Jake Cook", phone: "(714) 308-8669" }
         ]
       },
       {
