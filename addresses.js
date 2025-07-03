@@ -186,15 +186,15 @@ window.addresses = [
     date: "July 22"
   },
   {
-    name: "CTRL & BOUKNIGHT (100) MI",
+    name: "RELENTLESS & BOUKNIGHT (30-35) MI",
     address: "26211 Central Park Blvd. Southfield, Mi 48076",
     coords: [42.4774, -83.2452],
     contacts: [
       {
-        team: "CTRL",
+        team: "RELENTLESS",
         people: [
-          { name: "Alex Mueller", phone: "(402) 591-1482" },
-          { name: "Matt Merkel", phone: "(402) 739-3540" }
+          { name: "Nick Fischer", phone: "(831) 251-5612" },
+          { name: "Adam Martinez", phone: "(480) 862-5118" }
         ]
       },
       {
