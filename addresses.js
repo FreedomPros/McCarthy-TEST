@@ -172,24 +172,16 @@ window.addresses = [
     date: "July 17, 18, 19"
   },
   {
-    name: "SOL (10) MI",
-    address: "5786 W Saginaw Hwy, Lansing, MI 48917",
-    coords: [42.7254, -84.6318],
+    name: "SOL, RELENTLESS & BOUKNIGHT (40-45) MI",
+    address: "33043 Hamilton Ct, Farmington Hills, MI 48334",
+    coords: [42.5322, -83.3746],
     contacts: [
       {
         team: "SOL",
         people: [
           { name: "Korey Lopez", phone: "(517) 914-4057" }
         ]
-      }
-    ],
-    date: "July 22"
-  },
-  {
-    name: "RELENTLESS & BOUKNIGHT (30-35) MI",
-    address: "26211 Central Park Blvd. Southfield, Mi 48076",
-    coords: [42.4774, -83.2452],
-    contacts: [
+      },
       {
         team: "RELENTLESS",
         people: [
@@ -204,7 +196,7 @@ window.addresses = [
         ]
       }
     ],
-    date: "July 24 - 25"
+    date: "July 22 - 23"
   },
   {
     name: "SOLAR MONEY GANG, OMNI, SPARTANS DFBUB, SUPREME (70) TX",
