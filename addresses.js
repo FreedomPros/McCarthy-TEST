@@ -555,5 +555,25 @@ window.addresses = [
       }
     ],
     date: "Sep 15 - 16"
+  },
+  {
+    name: "187 & Meta Pros PR",
+    address: "151 Calle de San Francisco, 1st floor. San Juan, Puerto Rico",
+    coords: [18.4655, -66.1164],
+    contacts: [
+      {
+        team: "187",
+        people: [
+          { name: "Felix Alba", phone: "(939) 324-3787" }
+        ]
+      },
+      {
+        team: "Meta Pros",
+        people: [
+          { name: "Fernando Santiago", phone: "(352) 278-6865" }
+        ]
+      }
+    ],
+    date: "Sep 18-19"
   }
 ];
