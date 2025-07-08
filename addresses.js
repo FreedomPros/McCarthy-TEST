@@ -526,8 +526,8 @@ window.addresses = [
   },
   {
     name: "GRAIL, ALL STARS, FRANCHISE, & THE GEORGIA DAWGS (40) GA",
-    address: "5650 Rivertech Ct. Suite K Riverdale MD 20737",
-    coords: [38.9634, -76.9154],
+    address: "FF 640 Airport South Pkwy Suite 100, Atlanta, GA 30349",
+    coords: [33.6288, -84.4221],
     contacts: [
       {
         team: "GRAIL",
@@ -557,7 +557,7 @@ window.addresses = [
     date: "Sep 15 - 16"
   },
   {
-    name: "187 & Meta Pros PR",
+    name: "187 & META PROS PR",
     address: "151 Calle de San Francisco, 1st floor. San Juan, Puerto Rico",
     coords: [18.4655, -66.1164],
     contacts: [
@@ -568,7 +568,7 @@ window.addresses = [
         ]
       },
       {
-        team: "Meta Pros",
+        team: "META PROS",
         people: [
           { name: "Fernando Santiago", phone: "(352) 278-6865" }
         ]
