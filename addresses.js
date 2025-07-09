@@ -575,5 +575,31 @@ window.addresses = [
       }
     ],
     date: "Sep 18-19"
+  },
+  {
+    name: "SWAMP KINGS, HUSTLERS UNITED, ZERO GRAVITY (30) FL",
+    address: "555 Winderley Pl. Ste 127. Maitland, FL 32751",
+    coords: [28.6265, -81.3858], // Approximate Maitland, FL
+    contacts: [
+      {
+        team: "SWAMP KINGS",
+        people: [
+          { name: "Matt Lent", phone: "(954) 243-1732" }
+        ]
+      },
+      {
+        team: "HUSTLERS UNITED",
+        people: [
+          { name: "Chris Burgess", phone: "(801) 698-6111" }
+        ]
+      },
+      {
+        team: "ZERO GRAVITY",
+        people: [
+          { name: "Jacari Brown", phone: "(561) 400-1219" }
+        ]
+      }
+    ],
+    date: "Sep 22 - 23"
   }
 ];
