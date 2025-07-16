@@ -630,7 +630,7 @@ window.addresses = [
     date: "Sep 22 - 23"
   },
   {
-    name: "FORT MYERS STINGERS & SOUTH CENTRAL POWER (30) FL",
+    name: "<span style='font-weight: bold; font-size: 1.2em;'>TBD</span> FORT MYERS STINGERS & SOUTH CENTRAL POWER (30) FL",
     address: "11561 Majestic Palms Blvd Unit 105, Fort Myers, FL 33908",
     coords: [26.4919, -81.8838],
     contacts: [
