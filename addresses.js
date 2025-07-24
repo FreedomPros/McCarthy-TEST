@@ -185,8 +185,8 @@ window.addresses = [
   },
   {
     name: "SOL, RELENTLESS, BOUKNIGHT, EXTREME & SLINGERS (60) MI",
-    address: "5786 W Saginaw Hwy, Lansing, MI 48917",
-    coords: [42.7336, -84.6394],
+    address: "Freedom: 41158 Koppernick Rd. Canton, MI. 48187",
+    coords: [42.3255, -83.4632],
     contacts: [
       {
         team: "SOL",
