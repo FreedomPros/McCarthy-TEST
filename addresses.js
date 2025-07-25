@@ -259,7 +259,7 @@ window.addresses = [
     date: "July 28 - 29"
   },
   {
-    name: "ELITE CHAKRA, IMPACT GROUP, PRIME, THE STANDARD, ELEVATE (140) TX",
+    name: "ELITE CHAKRA, IMPACT GROUP, PRIME, THE STANDARD, ELEVATE (135) TX",
     address: "1920 Primewest Pkwy. #400. Katy, TX 77449",
     coords: [29.7841, -95.7317],
     contacts: [
