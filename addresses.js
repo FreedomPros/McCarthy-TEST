@@ -259,7 +259,7 @@ window.addresses = [
     date: "July 28 - 29"
   },
   {
-    name: "ELITE CHAKRA, IMPACT GROUP, PRIME, THE STANDARD, ELEVATE (135) TX",
+    name: "ELITE CHAKRA, IMPACT GROUP, PRIME, THE STANDARD, ELEVATE (140) TX",
     address: "1920 Primewest Pkwy. #400. Katy, TX 77449",
     coords: [29.7841, -95.7317],
     contacts: [
@@ -370,32 +370,6 @@ window.addresses = [
       }
     ],
     date: "Aug 14 - 15"
-  },
-  {
-    name: "NRG & ALCHEMY (30 - 40) NV",
-    address: "740 Freeport Blvd. Suite 107. Sparks, NV. 89431",
-    coords: [39.5309, -119.7681],
-    contacts: [
-      {
-        team: "NRG",
-        people: [
-          { name: "Jeff Iverson", phone: "(702) 279-1298" }
-        ]
-      },
-      {
-        team: "ALCHEMY",
-        people: [
-          { name: "Calder Bonnet", phone: "(801) 380-2282" }
-        ]
-      },
-      {
-        team: "Ben Newell",
-        people: [
-          { name: "Ben Newell", phone: "(360) 504-7154" }
-        ]
-      }
-    ],
-    date: "Aug 18 - 19"
   },
   {
     name: "SUPREME & THE GOLD STANDARD (15) OR",
