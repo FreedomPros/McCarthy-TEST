@@ -470,7 +470,7 @@ window.addresses = [
         ]
       }
     ],
-    date: "Sep 8 - 9"
+    date: "Sep 9"
   },
   {
     name: "CAPITAL MARYLAND, DMV & ARMADA (80) MD",
@@ -607,5 +607,19 @@ window.addresses = [
       }
     ],
     date: "Sep 25 - 26"
+  },
+  {
+    name: "DOMINOUS 1",
+    address: "TBD",
+    coords: [40.6084, -75.4902], // Allentown, PA
+    contacts: [
+      {
+        team: "DOMINOUS 1",
+        people: [
+          { name: "Justin Alysworth", phone: "810-858-3614" }
+        ]
+      }
+    ],
+    date: "TBD"
   }
 ];
